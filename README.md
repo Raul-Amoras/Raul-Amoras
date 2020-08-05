@@ -12,6 +12,6 @@ Sou um Analista de Sistema e estou estudando para virar desenvolvedor  :computer
  <br/> :blush: &nbsp; Posso te ajudar com o basico de CSS & html.
  <br/> :computer: &nbsp; Estudando: ReactJS, Node.js, React Native, JavaScript, Html & Css
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games VALORANT, ModernWarfare Warzone, Dead by Daylight e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RaulAmoras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raul-amoras-1041721b1/)](https://www.linkedin.com/in/raul-amoras-1041721b1/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Raul.amoras@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Raul.amoras@gmail.com)](mailto:Raul.amoras@gmail.com)
