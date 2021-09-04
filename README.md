@@ -32,5 +32,5 @@ Sou um Analista de Sistema e estou estudando para virar desenvolvedor  :computer
  
  ##
  
-  ![Snake animation](https://github.com/Raul-Amoras)
+  ![Snake animation](https://github.com/Raul-Amoras/Raul-Amoras/blob/output/github-contribution-grid-snake.svg)
  </div>
