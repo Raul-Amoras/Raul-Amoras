@@ -1,6 +1,4 @@
 
-<img width="auto" src="https://drive.google.com/file/d/1h69hFcEHZySEmeWqG9pncUVdt9USANEz/view?usp=sharing">
-
 # Raul Amoras
 
 ## Olá pessoal 👋
@@ -15,3 +13,24 @@ Sou um Analista de Sistema e estou estudando para virar desenvolvedor  :computer
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RaulAmoras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raul-amoras-1041721b1/)](https://www.linkedin.com/in/raul-amoras-1041721b1/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-Raul.amoras@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Raul.amoras@gmail.com)](mailto:Raul.amoras@gmail.com)
+
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul-Amoras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Amoras&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Raul-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Raul-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Raul-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+
+</div>
+ 
+ ##
+ 
+  ![Snake animation](https://github.com/Raul-Amoras)
+ </div>
