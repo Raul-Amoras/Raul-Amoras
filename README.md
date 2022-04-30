@@ -3,9 +3,9 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Analista de Sistema e estou estudando para virar desenvolvedor  :computer:
+Sou um Desolvedor de Sistema Jr. e estou estudando para virar desenvolvedor  :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **EcoCentauro**
+ :rocket:  &nbsp; Estou trabalhando na **Techlead**
  <br/> :purple_heart: &nbsp; Buscando aprender e colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com o básico de CSS & html.
  <br/> :computer: &nbsp; Estudando: ReactJS, Node.js, React Native, JavaScript, Html & Css
