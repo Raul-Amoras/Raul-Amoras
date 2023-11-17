@@ -3,7 +3,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Desolvedor de Sistema Pleno. e estou estudando para virar desenvolvedor  :computer:
+Sou um Desolvedor de Sistema Pleno.  :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Techlead**
  <br/> :purple_heart: &nbsp; Buscando aprender e colaborar com projetos em Front-end usando React
